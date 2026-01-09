@@ -2,7 +2,6 @@
 
 ## Dataset Loading
 It is assumed that hyperspectral data are located in the local directory. They are available for download from the link: [Dataset](https:\\data.fulir.irb.hr\islandora\object\irb:538)
-https:\\data.fulir.irb.hr\islandora\object\irb:538
 
 ## Assumptions
 It is further assumed that hyperspectral images with normlized spectra accoring to Algorithm 1 (equations 12 to 18) are located in the local directory. For this purpose use the available Pythone code `convert.py` and following instructions:
